@@ -1,4 +1,4 @@
-name = "Pricing-Panel"
+name = "pricing-panel"
 pages_build_output_dir = "./dist"
 
 [vars]
